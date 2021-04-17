@@ -29,10 +29,15 @@ include './config.php';
                </div>
               <label for="exampleInputEmail">Email </label>
               <input type="Email" class="form-control" id="exampleInputEmail">
+                     
+                  <div class="form-group">
+
 
               <label for="exampleInputcreat your Password">creat your Password</label>
 
               <input type="password" class="form-control" id="exampleInputPassword1">
+                                       
+
               
             <button type="submit" name = "send" class="btn btn-dark">Submit</button>
 
